@@ -2,4 +2,4 @@
 Repositório do desafio GIT/GitHub da DIO
 
 ## Links Úteis
-[sitaxe basica markdown](https://www.markdownguide.org/)
+[Sintaxe Basica Markdown](https://www.markdownguide.org/)
